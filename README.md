@@ -1,2 +1,2 @@
-# cs3243
+# CS3243
 Introduction to Artificial Intelligence

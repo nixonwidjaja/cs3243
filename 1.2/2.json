@@ -1,0 +1,13 @@
+{
+  "creeps": [
+    [0, 0, 2],
+    [0, 1, 8],
+    [0, 2, 10]
+  ],
+  "start": [0, 0],
+  "goals": [[0, 2]],
+  "num_flash_left": 3,
+  "cols": 3,
+  "rows": 1,
+  "obstacles": []
+}
